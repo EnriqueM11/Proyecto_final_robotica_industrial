@@ -38,7 +38,9 @@ Lista detallada de componentes y materiales con cantidades aproximadas:
 
 - 1x Microcontrolador (Arduino mega)
 
-- 2x Servo motores SG90
+- 1x Servo motor MG966R
+
+- 1x Servo motor MG996R-2
 
 - Cable Dupont (macho-macho y macho-hembra)
 
@@ -48,6 +50,12 @@ Lista detallada de componentes y materiales con cantidades aproximadas:
 
 - 1x sensor inductivo LJ12A3-4-Z/BX
 
+- 1x Motor DC (24V)
+
+- 20x cubos de aluminio
+
+- 20x cubos de PLA
+
 - 1x Protoboard
 
 - Tornillos M3 x 12mm (x6)
@@ -55,6 +63,8 @@ Lista detallada de componentes y materiales con cantidades aproximadas:
 - Fuente de alimentación (24V)
 
 - Fuente de alimentación (7V)
+
+- Maquinaria de manufactura
 
 - Opcional: Caja impresa en 3D (se puede incluir STL)
 
