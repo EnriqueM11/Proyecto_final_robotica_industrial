@@ -118,6 +118,9 @@ Diagrama esquemático y tabla de conexiones entre componentes:
 
 ## 💻 Programación
 
+**Tutorial de como usar el wizard de paletizado en el teach pendant del robot fisico**
+
+- **Paso 1:** Al momento de iniciar el robot, tiene que salir la siguiente pantalla y se tiene que presionar al boton "Programm robot" que esta encerrado en rojo
 
 ---
 
