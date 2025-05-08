@@ -146,6 +146,11 @@ Diagrama esquemático y tabla de conexiones entre componentes:
 - **Paso 7:** De igual manera tendra que mover el robot para marcar el punto final del paletizado
 
   ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso7.png)
+
+- **Paso 8:** En las secciones de "Approach_1" y "Pattern point_1" el waypoint es el mismo que se utiliza en el paso 6
+- **Paso 9:** En las secciones "Set" y "Wait" es para declarar acciones. En el caso de set es para que realice una accion antes de seguir con el codigo y en el caso de wait es para que el robot espere cierto tiempo antes de seguir con el codigo.
+
+- **Paso 10:** En la seccion de "Exit_1" aqui se declara un punto en el cual el robot va a ir despues de haber colocado una caja.
 ---
 
 ## ✅ Conclusión
