@@ -26,7 +26,9 @@ Breve descripción del proyecto
 
 ## 📖 Introducción
 
-Explicación del propósito del proyecto, para qué sirve, posibles aplicaciones y motivación para construirlo.
+El propósito de este proyecto es replicar una línea de empacado automatizada utilizando el robot UR5 para optimizar el proceso de paletizado en entornos industriales. El sistema automatizado mejora la velocidad, precisión y seguridad en el empaquetado de cajas, reduciendo la intervención humana y aumentando la eficiencia. La línea de empacado se diseñará para formar pallets con 20 cajas distribuidas en 4 niveles de 5 cajas cada uno, integrando robots, sensores y sistemas de control para simular un proceso de producción real.
+
+Nuestra motivación para construir este proyecto es poder ver de forma física el funcionamiento de una línea automatizada y llevar el concepto a la práctica. Este enfoque práctico nos permite aplicar conocimientos de robótica, programación y automatización industrial, abordando los desafíos actuales en la industria para mejorar la eficiencia operativa y reducir costos. Además, tiene aplicaciones en diversos sectores como la automotriz, farmacéutica y alimentaria, y ofrece una valiosa experiencia en el diseño, implementación y optimización de sistemas automatizados.
 
 ---
 
@@ -51,7 +53,28 @@ Lista detallada de componentes y materiales con cantidades aproximadas:
 ---
 ## 💾 Instalación de Software
 
-Instrucciones para instalar el software necesario (IDE, drivers, librerías):
+1. Descargar el Arduino IDE:
+Ve al sitio web oficial de Arduino: https://www.arduino.cc/en/software.
+
+Selecciona el sistema operativo que estás usando (Windows, macOS, Linux).
+
+Haz clic en el botón de descarga correspondiente. Si usas Windows, puedes elegir entre el instalador o el archivo comprimido.
+
+2. Instalar el Arduino IDE:
+En Windows:
+Si descargaste el instalador: Haz doble clic en el archivo .exe descargado para iniciar la instalación.
+
+Acepta los términos de uso.
+
+Elige la carpeta de instalación y haz clic en "Install".
+
+Espera a que la instalación termine y haz clic en "Finish" para finalizar.
+
+Si descargaste el archivo comprimido:
+
+Extrae el contenido del archivo ZIP en una carpeta de tu elección.
+
+Dentro de la carpeta extraída, encontrarás el archivo arduino.exe. Haz doble clic para abrir el IDE.
 
 ---
 
