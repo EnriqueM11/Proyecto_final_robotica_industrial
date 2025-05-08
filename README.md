@@ -14,13 +14,13 @@ Breve descripción del proyecto
 
 ## 📋 Requisitos Previos
 
-- Conocimientos necesarios (e.g., uso básico de herramientas, electrónica, programación)
+- Conocimientos necesarios: uso basico de herramientas mecanicas y electronicas, conocimientos basicos de programacion, preferentemente en lenguajes como C/C++ para Arduino y lenguajes de programacion de control de robots, conocimiento en electronica, sistemas de control y automatizacion industrial.
 
-- Herramientas requeridas (e.g., multímetro, cautín, impresora 3D)
+- Herramientas requeridas: cautín para soldadura de componentes electrónicos, maquinaria de manufactura, herramientas basicas (destornillador, pinzas, etc.).
 
-- Componentes electrónicos o mecánicos necesarios (e.g., Arduino, motores, sensores)
+- Componentes electrónicos o mecánicos necesarios: Arduino Mega, sensores inductivo y capacitivo, servomotores, motor de DC, resistencias.
 
-- Software necesario (e.g., Arduino IDE, Fusion 360, PrusaSlicer)
+- Software necesario: Arduino IDE, SolidWorks, URSIM.
 
 ---
 
