@@ -54,27 +54,27 @@ Lista detallada de componentes y materiales con cantidades aproximadas:
 ## 💾 Instalación de Software
 
 1. Descargar el Arduino IDE:
-Ve al sitio web oficial de Arduino: https://www.arduino.cc/en/software.
+- Ve al sitio web oficial de Arduino: https://www.arduino.cc/en/software.
 
-Selecciona el sistema operativo que estás usando (Windows, macOS, Linux).
+- Selecciona el sistema operativo que estás usando (Windows, macOS, Linux).
 
-Haz clic en el botón de descarga correspondiente. Si usas Windows, puedes elegir entre el instalador o el archivo comprimido.
+-Haz clic en el botón de descarga correspondiente. Si usas Windows, puedes elegir entre el instalador o el archivo comprimido.
 
 2. Instalar el Arduino IDE:
 En Windows:
-Si descargaste el instalador: Haz doble clic en el archivo .exe descargado para iniciar la instalación.
+-Si descargaste el instalador: Haz doble clic en el archivo .exe descargado para iniciar la instalación.
 
-Acepta los términos de uso.
+--Acepta los términos de uso.
 
-Elige la carpeta de instalación y haz clic en "Install".
+--Elige la carpeta de instalación y haz clic en "Install".
 
-Espera a que la instalación termine y haz clic en "Finish" para finalizar.
+--Espera a que la instalación termine y haz clic en "Finish" para finalizar.
 
-Si descargaste el archivo comprimido:
+-Si descargaste el archivo comprimido:
 
-Extrae el contenido del archivo ZIP en una carpeta de tu elección.
+--Extrae el contenido del archivo ZIP en una carpeta de tu elección.
 
-Dentro de la carpeta extraída, encontrarás el archivo arduino.exe. Haz doble clic para abrir el IDE.
+--Dentro de la carpeta extraída, encontrarás el archivo arduino.exe. Haz doble clic para abrir el IDE.
 
 ---
 
