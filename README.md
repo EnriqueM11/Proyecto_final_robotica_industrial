@@ -131,6 +131,21 @@ Diagrama esquemático y tabla de conexiones entre componentes:
 
   ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso3.png)
 
+- **Paso 4:** Le saldra la siguiente ventana, en el cual le preguntara el tipo de patron que va a llenar el pallet. En este caso se selecciono el de linea.
+
+![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/Paso4.png)
+
+- **Paso 5:** El wizard le preguntara cuantas cajas va a acomodar, aqui se puede el valor que quiera el usuario.
+
+  ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso5.png)
+
+- **Paso 6:** Despues tendra que mover el robot para marcarle el punto de inicio del paletizado
+
+  ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso6.png)
+
+- **Paso 7:** De igual manera tendra que mover el robot para marcar el punto final del paletizado
+
+  ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso7.png)
 ---
 
 ## ✅ Conclusión
