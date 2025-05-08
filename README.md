@@ -157,6 +157,8 @@ Diagrama esquemático y tabla de conexiones entre componentes:
 - **Paso 10:** En la seccion de "Exit_1" aqui se declara un punto en el cual el robot va a ir despues de haber colocado una caja.
 
   ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso10.png)
+  
+¡Listo! Ya esta configurado el pallet solo queda en dar RUN al programa
 ---
 
 ## ✅ Conclusión
