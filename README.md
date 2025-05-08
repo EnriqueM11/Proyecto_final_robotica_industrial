@@ -66,6 +66,8 @@ Lista detallada de componentes y materiales con cantidades aproximadas:
 
 - Maquinaria de manufactura
 
+- Robot UR5
+
 - Opcional: Caja impresa en 3D (se puede incluir STL)
 
 ---
