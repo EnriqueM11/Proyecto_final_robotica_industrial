@@ -160,6 +160,9 @@ Diagrama esquemático y tabla de conexiones entre componentes:
   
 ¡Listo! Ya esta configurado el pallet solo queda en dar RUN al programa
 
+**Explicacion breve del funcionamiento del codigo en Arduino**
+
+
 ---
 
 ## ✅ Conclusión
