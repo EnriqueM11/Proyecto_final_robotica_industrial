@@ -148,9 +148,15 @@ Diagrama esquemático y tabla de conexiones entre componentes:
   ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso7.png)
 
 - **Paso 8:** En las secciones de "Approach_1" y "Pattern point_1" el waypoint es el mismo que se utiliza en el paso 6
+
+  ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso8.png)
 - **Paso 9:** En las secciones "Set" y "Wait" es para declarar acciones. En el caso de set es para que realice una accion antes de seguir con el codigo y en el caso de wait es para que el robot espere cierto tiempo antes de seguir con el codigo.
 
+  ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso9.png)
+
 - **Paso 10:** En la seccion de "Exit_1" aqui se declara un punto en el cual el robot va a ir despues de haber colocado una caja.
+
+  ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso10.png)
 ---
 
 ## ✅ Conclusión
