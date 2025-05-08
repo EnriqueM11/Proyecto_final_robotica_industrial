@@ -132,7 +132,7 @@ Como se indica en la licencia MIT, este software/hardware se proporciona **sin n
 
 ## 👥 Autores del proyecto
 
-Autores originales del proyecto
+Enrique Mendoza Sánchez
 
 ---
 
