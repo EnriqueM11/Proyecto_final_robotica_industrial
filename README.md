@@ -123,7 +123,13 @@ Diagrama esquemático y tabla de conexiones entre componentes:
 - **Paso 1:** Al momento de iniciar el robot, tiene que salir la siguiente pantalla y se tiene que presionar al boton "Program robot" que esta encerrado en rojo
 
   ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/Paso1.png)
-- **Paso 2:**
+- **Paso 2:** Saldra la siguiente ventan y se presiona "Empty program"
+
+  ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/Paso2.png)
+
+- **Paso 3:** Lo mandara a la ventana del teach pendant del robot para utilizar el wizard del paletizado tiene que presionar Structure -> Wizard -> Pallet
+
+  ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso3.png)
 
 ---
 
