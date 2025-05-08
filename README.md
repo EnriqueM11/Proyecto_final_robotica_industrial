@@ -73,9 +73,9 @@ Lista detallada de componentes y materiales con cantidades aproximadas:
 
 - Si descargaste el archivo comprimido:
 
--Extrae el contenido del archivo ZIP en una carpeta de tu elección.
+- Extrae el contenido del archivo ZIP en una carpeta de tu elección.
 
--Dentro de la carpeta extraída, encontrarás el archivo arduino.exe. Haz doble clic para abrir el IDE.
+- Dentro de la carpeta extraída, encontrarás el archivo arduino.exe. Haz doble clic para abrir el IDE.
 
 ---
 
