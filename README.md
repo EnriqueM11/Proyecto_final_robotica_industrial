@@ -36,17 +36,25 @@ Nuestra motivación para construir este proyecto es poder ver de forma física e
 
 Lista detallada de componentes y materiales con cantidades aproximadas:
 
-- 1x Microcontrolador (Arduino Uno, ESP32, etc.)
+- 1x Microcontrolador (Arduino mega)
 
 - 2x Servo motores SG90
 
 - Cable Dupont (macho-macho y macho-hembra)
 
+- 1x cable USB tipo A a tipo B
+
+- 1x sensor capacitivo LJC18A3-B-Z/BY
+
+- 1x sensor inductivo LJ12A3-4-Z/BX
+
 - 1x Protoboard
 
 - Tornillos M3 x 12mm (x6)
 
-- Fuente de alimentación (5V)
+- Fuente de alimentación (24V)
+
+- Fuente de alimentación (7V)
 
 - Opcional: Caja impresa en 3D (se puede incluir STL)
 
