@@ -159,6 +159,7 @@ Diagrama esquemático y tabla de conexiones entre componentes:
   ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso10.png)
   
 ¡Listo! Ya esta configurado el pallet solo queda en dar RUN al programa
+
 ---
 
 ## ✅ Conclusión
