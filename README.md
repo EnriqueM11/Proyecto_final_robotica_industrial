@@ -127,7 +127,7 @@ Diagrama esquemático y tabla de conexiones entre componentes:
 
   ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/Paso2.png)
 
-- **Paso 3:** Lo mandara a la ventana del teach pendant del robot para utilizar el wizard del paletizado tiene que presionar Structure -> Wizard -> Pallet
+- **Paso 3:** Lo mandara a la ventana del teach pendant del robot para utilizar el wizard del paletizado tiene que presionar Structure -> Wizards -> Pallet
 
   ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso3.png)
 
