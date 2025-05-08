@@ -61,6 +61,7 @@ Lista detallada de componentes y materiales con cantidades aproximadas:
 - Haz clic en el botón de descarga correspondiente. Si usas Windows, puedes elegir entre el instalador o el archivo comprimido.
 
 **Instalar el Arduino IDE:**
+
 **En Windows:**
 
 - Si descargaste el instalador: Haz doble clic en el archivo .exe descargado para iniciar la instalación.
