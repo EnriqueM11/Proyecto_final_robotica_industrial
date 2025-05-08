@@ -122,7 +122,7 @@ Diagrama esquemático y tabla de conexiones entre componentes:
 
 - **Paso 1:** Al momento de iniciar el robot, tiene que salir la siguiente pantalla y se tiene que presionar al boton "Program robot" que esta encerrado en rojo
 
-  !(media/images/Paso1.png)
+  !(https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/Paso1.png)
 - **Paso 2:**
 
 ---
