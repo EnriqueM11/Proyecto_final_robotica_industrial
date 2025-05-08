@@ -8,7 +8,7 @@
 
 
 
-Breve descripción del proyecto
+Este proyecto utiliza un robot UR5 para una sola línea de producción automatizada, con el objetivo de optimizar el proceso de empacado. Los sensores integrados en el sistema tienen la capacidad de detectar si los materiales son metálicos o no metálicos. Dependiendo de la detección, un servomotor guiará el objeto hacia la ruta adecuada en el proceso de paletizado. El robot UR5 es responsable de manipular los materiales, garantizando que cada uno se procese correctamente y se coloque en el pallet correspondiente, mejorando la eficiencia y precisión del sistema.
 
 ---
 
@@ -26,9 +26,9 @@ Breve descripción del proyecto
 
 ## 📖 Introducción
 
-El propósito de este proyecto es replicar una línea de empacado automatizada utilizando el robot UR5 para optimizar el proceso de paletizado en entornos industriales. El sistema automatizado mejora la velocidad, precisión y seguridad en el empaquetado de cajas, reduciendo la intervención humana y aumentando la eficiencia. La línea de empacado se diseñará para formar pallets con 20 cajas distribuidas en 4 niveles de 5 cajas cada uno, integrando robots, sensores y sistemas de control para simular un proceso de producción real.
+El propósito de este proyecto es replicar una línea de empacado automatizada utilizando un robot UR5, con el objetivo de optimizar el proceso de paletizado en entornos industriales. En esta línea, los sensores detectan si los materiales son metálicos o no metálicos, y dependiendo de la detección, un servomotor dirige el material a la ruta adecuada. Este sistema automatizado mejora la eficiencia, precisión y seguridad al reducir la intervención humana, asegurando que los materiales se procesen correctamente y se coloquen en los pallets de forma ordenada y efectiva.
 
-Nuestra motivación para construir este proyecto es poder ver de forma física el funcionamiento de una línea automatizada y llevar el concepto a la práctica. Este enfoque práctico nos permite aplicar conocimientos de robótica, programación y automatización industrial, abordando los desafíos actuales en la industria para mejorar la eficiencia operativa y reducir costos. Además, tiene aplicaciones en diversos sectores como la automotriz, farmacéutica y alimentaria, y ofrece una valiosa experiencia en el diseño, implementación y optimización de sistemas automatizados.
+Nuestra motivación para construir este proyecto es poder ver de forma física el funcionamiento de una línea automatizada y llevar el concepto a la práctica. Al integrar el robot UR5, los sensores y los servomotores, buscamos aplicar nuestros conocimientos en robótica y automatización para entender mejor los procesos industriales. Además, este proyecto tiene aplicaciones en sectores como la manufactura, la logística y la industria automotriz, y proporciona una valiosa experiencia en el diseño, implementación y optimización de sistemas robotizados en entornos reales.
 
 ---
 
