@@ -46,7 +46,7 @@ Lista detallada de componentes y materiales con cantidades aproximadas:
 
 - 1x cable USB tipo A a tipo B
 
-- 1x sensor capacitivo LJC18A3-B-Z/BY
+- 1x sensor infrarrojo E18-D80NK
 
 - 1x sensor inductivo LJ12A3-4-Z/BX
 
@@ -161,6 +161,8 @@ Diagrama esquemático y tabla de conexiones entre componentes:
 ¡Listo! Ya esta configurado el pallet solo queda en dar RUN al programa
 
 **Explicacion breve del funcionamiento del codigo en Arduino**
+
+
 
 
 ---
