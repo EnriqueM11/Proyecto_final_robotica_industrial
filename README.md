@@ -175,7 +175,13 @@ Este sistema híbrido, que combina la versatilidad y la capacidad de detección 
 
 ## 🔜 Mejoras futuras
 
-- Enlistar las mejoras a realizar
+- Integración de Sensor de Color: Ampliar la capacidad de clasificación para incluir la discriminación de materiales plásticos basada en su color, permitiendo una segregación más granular.
+- Implementación de Visión Artificial: Incorporar un sistema de visión basado en cámaras y procesamiento de imágenes para analizar la forma, el tamaño y el tipo específico de los objetos, incrementando la precisión de la clasificación.
+- Control de Velocidad Variable de la Banda Transportadora: Implementar un sistema que ajuste dinámicamente la velocidad de la banda en función del tipo de material y la demanda del sistema de paletizado, optimizando el flujo de producción
+- Mecanismo de Desviación Mejorado: Rediseñar o modificar el sistema de desviación para asegurar una manipulación más suave de los objetos, minimizando el riesgo de daños, especialmente en materiales frágiles.
+- Comunicación Bidireccional Robusta: Establecer un protocolo de comunicación más complejo entre el Arduino y el robot UR5 para el intercambio de información detallada sobre las características de los materiales (tipo, orientación) y el estado del proceso de paletizado
+- Desarrollo de una Interfaz Hombre-Máquina (HMI): Implementar una interfaz gráfica intuitiva para facilitar la supervisión del sistema, la visualización de datos de producción, la configuración de parámetros y el diagnóstico de posibles fallos.
+
 
 ## ⚠️ Advertencia
 
