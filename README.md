@@ -169,11 +169,10 @@ Este apartado solamente se hablara sobre las partes importantes del codigo del f
 ```
 bool pnpDetecta = digitalRead(sensorPNP) == LOW; 
 bool npnDetecta = digitalRead(sensorNPN) == LOW;
-
 ```
 
 
-- Cuando solo el sensor PNP detecta (por ejemplo, un material metálico), el sistema activa únicamente el servo2, que realiza un movimiento de 0° a 90° y regresa. Este podría representar una ruta de clasificación específica para ese tipo de material.
+- Cuando solo el sensor PNP detecta, el sistema activa únicamente el servo2, que realiza un movimiento de 0° a 90° y regresa. Este podría representar una ruta de clasificación específica para ese tipo de material.
 ```
 if (pnpDetecta && !npnDetecta) {
     
@@ -194,10 +193,9 @@ if (pnpDetecta && !npnDetecta) {
     }
 
   } 
-
 ```
 
-- Si ambos sensores detectan simultáneamente, el sistema considera un caso especial (por ejemplo, un objeto mixto o con prioridad). Primero actúa el servo2, luego el servo1, y al final ambos regresan a la posición inicial.
+- Si ambos sensores detectan simultáneamente, el sistema considera un caso especial, para este caso detecta que es un objeto metalico. Primero actúa el servo2, luego el servo1, y al final ambos regresan a la posición inicial.
 
 ```
 else if (pnpDetecta && npnDetecta) {
@@ -229,11 +227,7 @@ else if (pnpDetecta && npnDetecta) {
       delay(5);
     }
   } 
-
 ```
-
-
-
 ---
 
 ## ✅ Conclusión
