@@ -1,4 +1,4 @@
-# {Proyecto: Nombre del proyecto Hardware}
+# {Proyecto: Paletizado usando el brazo robotico UR5}
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)![Not Maintained](https://img.shields.io/badge/status-not_maintained-lightgrey?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
@@ -167,7 +167,9 @@ Diagrama esquemático y tabla de conexiones entre componentes:
 
 ## ✅ Conclusión
 
-Resumen de lo que se logró construir, aprendizajes obtenidos y posibles mejoras o versiones futuras del proyecto.
+Este proyecto demostró la exitosa implementación de un sistema automatizado de clasificación y direccionamiento de materiales en una línea de empaquetamiento. Mediante la integración de un Arduino, sensores de proximidad (PNP y NPN) y servomotores, se logró distinguir eficazmente entre objetos metálicos y plásticos, desviando cada tipo hacia conductos específicos.
+Este sistema híbrido, que combina la versatilidad y la capacidad de detección del Arduino con la precisión y la manipulación avanzada del robot industrial UR5, representa una solución eficiente y adaptable para optimizar los procesos de empaquetamiento. La automatización de la clasificación inicial mediante sensores y actuadores controlados por Arduino permitió un flujo de trabajo continuo y una preparación adecuada para la etapa de paletizado robótico. La implementación de este tipo de sistemas contribuye significativamente a la mejora de la productividad, la reducción de errores y la optimización de los recursos en entornos de producción industrial.
+
 
 ---
 
