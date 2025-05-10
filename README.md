@@ -162,6 +162,75 @@ Diagrama esquemático y tabla de conexiones entre componentes:
 
 **Explicacion breve del funcionamiento del codigo en Arduino**
 
+Este apartado solamente se hablara sobre las partes importantes del codigo del funcionamiento de la banda de produccion, para mas detalles puede ver el codigo llamado "banda_de_produccion.ino" dentro de la carpeta src.
+
+
+- Aqui detecta el estado de los sensores para verificar si ha habido algun cambio. El sensor inductivo esta bajo la variable llamada "sensorNPN" y el sensor infrarrojo esta bajo la variable llamada "sensorPNP".
+```
+bool pnpDetecta = digitalRead(sensorPNP) == LOW; 
+bool npnDetecta = digitalRead(sensorNPN) == LOW;
+
+```
+
+
+- Cuando solo el sensor PNP detecta (por ejemplo, un material metálico), el sistema activa únicamente el servo2, que realiza un movimiento de 0° a 90° y regresa. Este podría representar una ruta de clasificación específica para ese tipo de material.
+```
+if (pnpDetecta && !npnDetecta) {
+    
+    Serial.println("Solo PNP detecta - Servo 2");
+
+    delay(7000);
+
+    for (int pos = 0; pos <= 90; pos++) {
+      servo2.write(pos);
+      delay(5);
+    }
+
+    delay(100);
+
+    for (int pos = 90; pos >= 0; pos--) {
+      servo2.write(pos);
+      delay(5);
+    }
+
+  } 
+
+```
+
+- Si ambos sensores detectan simultáneamente, el sistema considera un caso especial (por ejemplo, un objeto mixto o con prioridad). Primero actúa el servo2, luego el servo1, y al final ambos regresan a la posición inicial.
+
+```
+else if (pnpDetecta && npnDetecta) {
+    
+    Serial.println("Ambos sensores - Servos 1 y 2");
+
+    delay(50);
+
+   
+    for (int pos = 0; pos <= 90; pos++) {
+      servo2.write(pos);
+      delay(4);
+    }
+
+    delay(8000);
+
+   
+    for (int pos = 0; pos <= 90; pos++) {
+      servo1.write(pos);
+      delay(5);
+    }
+
+    delay(8000);
+
+    
+    for (int pos = 90; pos >= 0; pos--) {
+      servo1.write(pos);
+      servo2.write(pos);
+      delay(5);
+    }
+  } 
+
+```
 
 
 
