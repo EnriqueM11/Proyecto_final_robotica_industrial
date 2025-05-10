@@ -68,8 +68,6 @@ Lista detallada de componentes y materiales con cantidades aproximadas:
 
 - Robot UR5
 
-- Opcional: Caja impresa en 3D (se puede incluir STL)
-
 ---
 ## 💾 Instalación de Software
 
@@ -261,6 +259,8 @@ Como se indica en la licencia MIT, este software/hardware se proporciona **sin n
 ## 👥 Autores del proyecto
 
 Enrique Mendoza Sánchez
+Edgar Jiménez Guridi
+Carlos Uriel Herrera Cuahuizo
 
 ---
 
