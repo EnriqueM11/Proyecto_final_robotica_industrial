@@ -58,7 +58,17 @@ Lista detallada de componentes y materiales con cantidades aproximadas:
 
 - 1x Protoboard
 
-- Tornillos M3 x 12mm (x6)
+- Tornillos M5 x 12mm (x20)
+
+- Tuercas M5 (x20)
+
+- Tornillos M4 x 12mm (x20)
+
+- Tuercas M4 (x20)
+
+- Tornillos M3 x 12mm(x10)
+
+- Tuercas M3 (x20)
 
 - Fuente de alimentación (24V)
 
