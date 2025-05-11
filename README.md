@@ -112,6 +112,8 @@ Pasos detallados para ensamblar el dispositivo, incluir diagramas y fotos del pr
 
 Diagrama esquemático y tabla de conexiones entre componentes:
 
+![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/Proyecto_final_Robotica_industrial.pdf)
+
 ---
 
 ## 💻 Programación
