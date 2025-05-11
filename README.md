@@ -116,6 +116,15 @@ Diagrama esquemático y tabla de conexiones entre componentes:
 
 Porque el diagrama se hizo mediante thinkercad, no cuenta con los sensores correspondientes pero el sensor llamado "PIR2" seria el sensor inductivo
 
+Tabla de conexiones entre componentes
+
+Alimentacion:
+![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/Tabla_voltajes.png)
+
+Datos:
+
+![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/Tabla_datos.png)
+
 ---
 
 ## 💻 Programación
