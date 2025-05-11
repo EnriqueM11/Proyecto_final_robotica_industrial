@@ -36,7 +36,7 @@ Nuestra motivación para construir este proyecto es poder ver de forma física e
 
 Lista detallada de componentes y materiales con cantidades aproximadas:
 
-- 1x Microcontrolador (Arduino mega)
+- 1x Microcontrolador (Arduino UNO o mega)
 
 - 1x Servo motor MG966R
 
@@ -280,7 +280,7 @@ Carlos Uriel Herrera Cuahuizo
 
 ¿Tienes dudas o sugerencias?
 
-- 📧 Correo electrónico: ejemplo@udlap.mx
+- 📧 Correo electrónico: cesar.martinez@udlap.mx
 
 ---
 
