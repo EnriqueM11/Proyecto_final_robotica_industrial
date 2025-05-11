@@ -112,7 +112,7 @@ Pasos detallados para ensamblar el dispositivo, incluir diagramas y fotos del pr
 
 Diagrama esquemático y tabla de conexiones entre componentes:
 
-![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/Proyecto_final_Robotica_industrial-1.png)
+![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/Proyecto%20final%20robotica%20industrial.png)
 
 Porque el diagrama se hizo mediante thinkercad, no cuenta con los sensores correspondientes pero el sensor llamado "PIR2" seria el sensor inductivo
 
