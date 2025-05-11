@@ -106,6 +106,8 @@ Lista detallada de componentes y materiales con cantidades aproximadas:
 
 - Dentro de la carpeta extraída, encontrarás el archivo arduino.exe. Haz doble clic para abrir el IDE.
 
+Tambien se utilizo el software de SolidWorks para el diseño de las piezas, para hacer uso del software es necesario una licencia.
+
 ---
 
 ## ⚙️ Montaje y Ensamblado
