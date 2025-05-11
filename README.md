@@ -281,9 +281,9 @@ Craig, J. J. (2014). Introduction to robotics: Mechanics and control (4th ed.). 
 
 Siciliano, B., & Khatib, O. (Eds.). (2016). Springer handbook of robotics (2nd ed.). Springer. https://doi.org/10.1007/978-3-319-32552-1​
 
-Universal Robots. (2024). UR5e Technical specifications. Recuperado de https://www.universal-robots.com/products/ur5-robot/​
+Universal Robots. (2024). UR5e Technical specifications. Recuperado de https://www.universal-robots.com/media/50588/ur5_en.pdf
 
-RoboDK. (2024). Robot simulation and offline programming documentation. Recuperado de https://robodk.com/documentation/​
+RoboDK. (2024). Robot simulation and offline programming documentation.
 
 Niku, S. B. (2020). Introduction to robotics: Analysis, control, applications (3rd ed.). Wiley
 
