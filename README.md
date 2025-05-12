@@ -118,8 +118,10 @@ Tambien se utilizo el software de SolidWorks para el diseño de las piezas, para
 
 **Ensamblaje mecanico**
 
+![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso1_mecanico.png)
+
 - Instalación del motor DC (24V):
-- Fijar el motor en su ubicación designada sobre la base metálica, asegurándose de que los engranajes reductores estén correctamente alineados y montados.
+  - Fijar el motor en su ubicación designada sobre la base metálica, asegurándose de que los engranajes reductores estén correctamente alineados y montados.
 - Montaje del rodillo transportador:
   - Colocar el rodillo en el extremo opuesto al motor, formando así los dos extremos del sistema de tracción.
 - Colocación de la lona de nailon:
@@ -129,18 +131,27 @@ Tambien se utilizo el software de SolidWorks para el diseño de las piezas, para
 
 Nota: Para mayor claridad, se recomienda consultar el modelo ensamblado en SolidWorks incluido en la carpeta .zip.
 
+![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso2_mecanico.png)
+
 **Integracion electronica**
+
+![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso3_mecanico.png)
 
 - Montaje de la electrónica:
   - Fijar la placa Arduino Mega, servomotores y demás elementos electrónicos sobre el soporte inferior metálico o plástico diseñado para tal fin.
 - Instalación de guías de bloque:
   - Añadir las guías laterales necesarias para el alineamiento y transporte controlado de piezas sobre la banda.
+![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso4_mecanico.png)
+
 - Montaje de servomotores:
   - Ensamblar los servomotores junto con sus piezas de sujeción (brazos, soportes, etc.). Para mayor fuerza de torsión, utilizar cintillos plásticos (cinchos de presión) que brinden mayor firmeza y estabilidad.
+![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso5_mecanico.png)
+ 
 - Fijación de servomotores:
   - Colocar los servomotores ya armados en sus posiciones definidas, asegurando una orientación adecuada para la tarea de manipulación de piezas.
 - Instalación de sensores:
   - Fijar correctamente los sensores inductivos (NPN y PNP) en las ubicaciones previamente diseñadas, asegurándose de realizar las conexiones correspondientes con divisores de voltaje, si se alimentan con 24V.
+![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso6_mecanico.png)
 
 **Puesta en marcha**
 - Pruebas de montaje y funcionamiento:
