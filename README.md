@@ -145,6 +145,7 @@ Nota: Para mayor claridad, se recomienda consultar el modelo ensamblado en Solid
 
 - Montaje de servomotores:
   - Ensamblar los servomotores junto con sus piezas de sujeción (brazos, soportes, etc.). Para mayor fuerza de torsión, utilizar cintillos plásticos (cinchos de presión) que brinden mayor firmeza y estabilidad.
+  
 ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso5_mecanico.png)
  
 - Fijación de servomotores:
