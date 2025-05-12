@@ -110,13 +110,25 @@ Tambien se utilizo el software de SolidWorks para el diseño de las piezas, para
 
 ## ⚙️ Montaje y Ensamblado
 
-Pasos detallados para ensamblar el dispositivo, incluir diagramas y fotos del proceso
+**Preparacion inicial**
 
-**Paso 1:** Ensamblar la base
+- Descargar y descomprimir la carpeta “Proyecto Final.zip”, la cual contiene todos los recursos necesarios para el ensamble y comprensión del sistema.
+- Acceder a la subcarpeta “Proyecto Final Definitivo”.
+- Reunir previamente todos los componentes de chapa metálica, junto con la pieza base denominada "Base Conveyor".
 
-**Paso 2:** Conectar los motores al microcontrolador
+**Ensamblaje mecanico**
 
-**Paso 3:** Asegurar los componentes en la carcasa
+- Instalación del motor DC (24V):
+- Fijar el motor en su ubicación designada sobre la base metálica, asegurándose de que los engranajes reductores estén correctamente alineados y montados.
+- Montaje del rodillo transportador:
+  - Colocar el rodillo en el extremo opuesto al motor, formando así los dos extremos del sistema de tracción.
+- Colocación de la lona de nailon:
+  - Situar la lona entre los dos rodillos y tensarla adecuadamente utilizando las extensiones de ajuste incluidas en la estructura del conveyor.
+- Instalación del protector de seguridad:
+  - Ensamblar el protector superior o carcasa para garantizar la seguridad del usuario durante la operación del sistema.
+ Nota: Para mayor claridad, se recomienda consultar el modelo ensamblado en SolidWorks incluido en la carpeta .zip.
+
+
 
 ### 🔌 Conexiones Eléctricas
 
