@@ -126,6 +126,7 @@ Tambien se utilizo el software de SolidWorks para el diseño de las piezas, para
   - Situar la lona entre los dos rodillos y tensarla adecuadamente utilizando las extensiones de ajuste incluidas en la estructura del conveyor.
 - Instalación del protector de seguridad:
   - Ensamblar el protector superior o carcasa para garantizar la seguridad del usuario durante la operación del sistema.
+
 Nota: Para mayor claridad, se recomienda consultar el modelo ensamblado en SolidWorks incluido en la carpeta .zip.
 
 **Integracion electronica**
@@ -141,9 +142,14 @@ Nota: Para mayor claridad, se recomienda consultar el modelo ensamblado en Solid
 - Instalación de sensores:
   - Fijar correctamente los sensores inductivos (NPN y PNP) en las ubicaciones previamente diseñadas, asegurándose de realizar las conexiones correspondientes con divisores de voltaje, si se alimentan con 24V.
 
+**Puesta en marcha**
+- Pruebas de montaje y funcionamiento:
+  - Verificar que todos los componentes estén bien fijados y alineados. Encender el sistema para realizar pruebas de movimiento del conveyor, activación de sensores y respuesta de los servomotores.
+- Finalización del montaje:
+  - Una vez comprobado el correcto funcionamiento del sistema, cerrar cualquier cubierta protectora adicional y asegurar las conexiones finales.
 
-
-
+¡Conveyor listo para operar!
+Disfrute del funcionamiento automatizado del conveyor diseñado, ideal para clasificación y manejo de piezas en proyectos universitarios o de prototipado industrial.
 
 
 ### 🔌 Conexiones Eléctricas
