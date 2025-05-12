@@ -141,6 +141,7 @@ Nota: Para mayor claridad, se recomienda consultar el modelo ensamblado en Solid
   - Fijar la placa Arduino Mega, servomotores y demás elementos electrónicos sobre el soporte inferior metálico o plástico diseñado para tal fin.
 - Instalación de guías de bloque:
   - Añadir las guías laterales necesarias para el alineamiento y transporte controlado de piezas sobre la banda.
+
 ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso4_mecanico.png)
 
 - Montaje de servomotores:
@@ -152,6 +153,7 @@ Nota: Para mayor claridad, se recomienda consultar el modelo ensamblado en Solid
   - Colocar los servomotores ya armados en sus posiciones definidas, asegurando una orientación adecuada para la tarea de manipulación de piezas.
 - Instalación de sensores:
   - Fijar correctamente los sensores inductivos (NPN y PNP) en las ubicaciones previamente diseñadas, asegurándose de realizar las conexiones correspondientes con divisores de voltaje, si se alimentan con 24V.
+
 ![](https://github.com/EnriqueM11/Proyecto_final_robotica_industrial/blob/main/media/images/paso6_mecanico.png)
 
 **Puesta en marcha**
