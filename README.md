@@ -126,7 +126,23 @@ Tambien se utilizo el software de SolidWorks para el diseño de las piezas, para
   - Situar la lona entre los dos rodillos y tensarla adecuadamente utilizando las extensiones de ajuste incluidas en la estructura del conveyor.
 - Instalación del protector de seguridad:
   - Ensamblar el protector superior o carcasa para garantizar la seguridad del usuario durante la operación del sistema.
- Nota: Para mayor claridad, se recomienda consultar el modelo ensamblado en SolidWorks incluido en la carpeta .zip.
+Nota: Para mayor claridad, se recomienda consultar el modelo ensamblado en SolidWorks incluido en la carpeta .zip.
+
+**Integracion electronica**
+
+- Montaje de la electrónica:
+  - Fijar la placa Arduino Mega, servomotores y demás elementos electrónicos sobre el soporte inferior metálico o plástico diseñado para tal fin.
+- Instalación de guías de bloque:
+  - Añadir las guías laterales necesarias para el alineamiento y transporte controlado de piezas sobre la banda.
+- Montaje de servomotores:
+  - Ensamblar los servomotores junto con sus piezas de sujeción (brazos, soportes, etc.). Para mayor fuerza de torsión, utilizar cintillos plásticos (cinchos de presión) que brinden mayor firmeza y estabilidad.
+- Fijación de servomotores:
+  - Colocar los servomotores ya armados en sus posiciones definidas, asegurando una orientación adecuada para la tarea de manipulación de piezas.
+- Instalación de sensores:
+  - Fijar correctamente los sensores inductivos (NPN y PNP) en las ubicaciones previamente diseñadas, asegurándose de realizar las conexiones correspondientes con divisores de voltaje, si se alimentan con 24V.
+
+
+
 
 
 
